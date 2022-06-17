@@ -1,3 +1,4 @@
+---
 #Create services. The master and slave are mysql and mysql read
 apiVersion: v1
 kind: Service
